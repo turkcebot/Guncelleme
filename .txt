@@ -1,0 +1,4 @@
+[general]
+version    = "v5.2.1"
+messagenew = "TNT BOT'un güncel versiyonu çıkmıştır indirebilirsiniz."
+messageold = "Yeni Güncel Versiyon Çıkmıştır www.turkcebot.com'dan indiriniz."
